@@ -9,6 +9,6 @@ OOP Summary From Object-Oriented Programming -Robret Lafore C4th Edition Book.
 - Chapter 11 (Virtual Functions).
 - Chapter 12 (Streams And Files).
 ## Note:
-You Will Find Screenshot OF The Summary And His CPP Source Code.
+You Will Find Screenshot OF The Every Summary And His CPP Source Code And Some Notes From Bing AI.
 ## This Summary is Preferred For Everyone Who Finished From Reading The Book or After Studying OOP.
-I Will Be Happy To Know Your Feedback or Any Opinion, Good Luck.!
+I Will Be Happy To Know Your Feedback, Good Luck.!
